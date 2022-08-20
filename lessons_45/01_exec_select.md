@@ -1,1 +1,1 @@
-# 1 Execution of a select query
+# 1. Execution of a select query
