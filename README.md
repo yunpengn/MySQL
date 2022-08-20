@@ -6,8 +6,8 @@ This is an opinionated guide for MySQL database knowledge, written by [Yunpeng N
 
 My notes about the 45 lessons on MySQL:
 
-- [0 Introduction](lessons_45/00_intro.md)
-- [1 Execution of a select query](lessons_45/01_exec_select.md)
+- [0. Introduction](lessons_45/00_intro.md)
+- [1. Execution of a select query](lessons_45/01_exec_select.md)
 
 ## Licence
 
