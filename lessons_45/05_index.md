@@ -7,6 +7,8 @@
 - Ordering of columns within a composite index:
     - Try to cover as much query space as possible (think about left-prefix matching)
     - Try to save space (cardinality of each column)
-- Index condition pushdown:
+- Index condition pushdown (ICP):
     - An optional optimization feature introduced since MySQL 5.6
-- 
+    - If parts of the `WHERE` condition can be evaluated by using only columns from the index, the MySQL server pushes this part of the `WHERE` condition down to the storage engine
+    - ICP is only used for secondary indexes (since its goal is to reduce full-row reads)
+    - See https://dev.mysql.com/doc/refman/5.6/en/index-condition-pushdown-optimization.html
