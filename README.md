@@ -17,6 +17,11 @@ My notes about the 45 lessons on MySQL:
 - [8. MVCC](lessons_45/08_mvcc.md)
 - [9. Unique Key](lessons_45/09_unique_key.md)
 - [10. Choose an Index](lessons_45/10_select_index.md)
+- [11. Index on a VARCHAR column](lessons_45/11_varchar_index.md)
+- [12. Spike](lessons_45/12_spike.md)
+- [13. Size of a Table File](lessons_45/13_table_file_size.md)
+- [14. Why is COUNT * slow](lessons_45/14_count.md)
+- [16. How does ORDER BY work](lessons_45/16_order_by.md)
 
 ## Licence
 
