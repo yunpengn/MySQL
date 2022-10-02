@@ -22,6 +22,7 @@ My notes about the 45 lessons on MySQL:
 - [13. Size of a Table File](lessons_45/13_table_file_size.md)
 - [14. Why is COUNT * slow](lessons_45/14_count.md)
 - [16. How does ORDER BY work](lessons_45/16_order_by.md)
+- [17. Random select](lessons_45/17_random_select.md)
 
 ## Licence
 
