@@ -9,4 +9,5 @@
         - Monotonic read consistency
         - Consistent prefix
         - Linearizability
+        - Casual consistency
 - Transaction consistency
