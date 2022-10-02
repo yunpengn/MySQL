@@ -2,7 +2,7 @@
 
 This is an opinionated guide for MySQL database knowledge, written by [Yunpeng Niu](https://yunpengn.github.io/).
 
-## 45 Lessons
+## 45 Lessons on MySQL
 
 My notes about the 45 lessons on MySQL:
 
@@ -23,6 +23,12 @@ My notes about the 45 lessons on MySQL:
 - [14. Why is COUNT * slow](lessons_45/14_count.md)
 - [16. How does ORDER BY work](lessons_45/16_order_by.md)
 - [17. Random select](lessons_45/17_random_select.md)
+
+## 30 Lessons on Distributed DB
+
+My notes about the 30 lessons on distributed DB:
+
+- [0. Introduction](lessons_30/00_intro.md)
 
 ## Licence
 
