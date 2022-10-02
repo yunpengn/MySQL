@@ -7,4 +7,6 @@
     - Operation consistency: operation returns acceptable results.
         - Read after write consistency
         - Monotonic read consistency
+        - Consistent prefix
+        - Linearizability
 - Transaction consistency
