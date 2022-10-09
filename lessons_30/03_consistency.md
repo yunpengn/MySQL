@@ -1,1 +1,22 @@
 # 3. Transaction Consistency
+
+- ACID: important properties of SQL database
+    - atomicity
+    - consistency
+    - isolation
+    - durability
+- BASE: important properties of NoSQL database
+    - basically available
+    - soft state
+    - eventual consistency
+- ANSI SQL isolation levels:
+    - Read uncommited
+    - Read commited
+    - Repeatable read
+    - Serializable
+- Up-to-date SQL isolation levels:
+    - Read commited
+    - Repeatable read
+    - Snapshot isolation
+    - Serializable
+- 
