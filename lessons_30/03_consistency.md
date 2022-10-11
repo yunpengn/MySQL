@@ -19,4 +19,4 @@
     - Repeatable read
     - Snapshot isolation
     - Serializable
-- 
+- WAL: write-ahead logging
